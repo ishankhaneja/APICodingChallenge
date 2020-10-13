@@ -22,7 +22,7 @@
         <cucumber-java.version>5.2.0</cucumber-java.version>
         <cucumber-jvm-deps.version>1.0.6</cucumber-jvm-deps.version>
         <cucumber-junit.version>5.2.0</cucumber-junit.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <build>
